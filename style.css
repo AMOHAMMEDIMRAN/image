@@ -25,7 +25,7 @@
     border: 2px solid white;
     border-radius: 50px;
     object-fit: cover;
-    box-shadow: 2px 3px 8px cyan;
+    box-shadow: 2px 3px 8px orangered;
 }
 .topic h1{
     color: cyan;
